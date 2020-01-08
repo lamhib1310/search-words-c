@@ -1,0 +1,46 @@
+The common feature among the control methods of ac drives is 
+that there is a converter (switching power processor)
+with its characteristic control loop (phase control, PWM,
+etc.) and dynamics, and that there is a motor (asynchronous or
+synchronous) with its static and dynamic characteristics. The
+two are then combined together to develop an overall model.
+Suitable feedback techniques are then employed to achieve
+the control objective such as speed control, position control,
+etc. In contrast to the aforementioned, the control theory
+of variable structure systems (VSS) and a concept of sliding
+mode control may be used on the power processor and
+the motor together (as one control plant) to develop a control
+strategy that can deal with switching converter and motor
+nonlinearities.
+In this paper, the application of sliding mode control to
+permanent-magnet synchronous motors (dc brushless motors),
+wound-rotor synchronous motors, and asynchronous motors is
+presented. In the Appendix, the basic idea of sliding mode is 
+given.
+Asif Sabanovic was born in Visoko, Yugoslavia,
+in August 1946. He received the B.Sc., M.Sc.,
+and D.Sc. degrees in electrical engineering from
+the University of Sarajevo in 1970, 1975, and 1979,
+respectively.
+In 1970 he joined Energoinvest-Institute for Automatic
+Control and Computer Science, Sarajevo,
+where he worked on the research and development
+of new control systems of electric drives. He
+founded the Power Electronics Laboratory at the Institute
+and is now the Head of the Automatic Control
+Department. He is also a part-time Professor at the University of Sarajevo.
+From September 1983 to August 1985 he was Visiting Associate Professor
+at the California Institute of Technology, Pasadena. His current research interests
+continue to be the design of electric motor control systems, sliding
+mode controls, power electronics, and robotics.
+Faruk Bilalovic was born in Visoko, Yugoslavia,
+on August 3, 1952. He received the B.Sc. and
+M.Sc. degrees in electrical engineering from the
+University of Sarajevo in 1975 and 1979, respectively.
+He also received the M.Sc. degree in electrical
+engineering from CalTech, Pasadena, California,
+in 1986.
+Since 1975 he has been with the Energoinvest-
+Institute for Automatic Control and Computer Science,
+Sarajevo. His current research interests include
+motor control and robotics.
